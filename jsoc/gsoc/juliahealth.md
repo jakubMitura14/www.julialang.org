@@ -10,7 +10,7 @@ We believe that by working together and sharing our knowledge and expertise, we 
 
 **Description:** The OMOP Common Data Model (OMOP CDM) is a widely used data standard that allows researchers to analyze large, heterogeneous healthcare datasets in a consistent and efficient manner.
 JuliaHealth has several packages that can interact with databases that adhere to the OMOP CDM (such as OMOPCDMCohortCreator.jl or OMOPCDMDatabaseConnector.jl).
-For this project, we are looking for students interested in further developing the tooling in Julia to interact with OMOP CDM databases.
+For this project , we are looking for students interested in further developing the tooling in Julia to interact with OMOP CDM databases.
 
 - **Mentor:** Jacob Zelko (aka TheCedarPrince) [email: jacobszelko@gmail.com]
 
